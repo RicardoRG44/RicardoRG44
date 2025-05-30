@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RicardoRG44
 Future Backend Developerment!:)
-- 🌱 I’m currently learning in python
+- 🌱 I’m currently learning in python, Node.js, Django, SQL 
 
   
 - 💞️ I’m looking to collaborate on all I want
