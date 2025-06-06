@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software development
 --------------------
 
-In the morning I studing Law than in the afternoon i´m working as a ProjectManager Freelance! My dream is working like a professional Software Development in company Tech. I started and studied with C, C++ than HTML, CSS and after years ago whith nobody change I decided to transforme a Professional Software Development focusing in Python, databases, Django, FastAPIs, and much more.
+In the morning I studing Law than in the afternoon i´m working as a ProjectManager Freelance! My dream is working like a professional Software Development in company Tech. I started and studied with C, C++ than HTML, CSS and after years ago whith nobody change I decided to transform a Professional Software Development focusing in Python, databases, Django, FastAPIs, and much more.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [ricardormzgurrola44@gmail.com](mailto:ricardormzgurrola44@gmail.com)
