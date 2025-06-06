@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ricardo Ramírez Gurrola
 ===============================================================================================================================================
 
-Engineer Software
+Software Engineer 
 --------------------
 |Engineer, books, nerd...|
 
-In the morning I studying Law than in the afternoon i´m working as a ProjectManager Freelance and the rest of the day I studying software and network design! My dream is working like a professional Engineer Software in company Tech. I started and studied with C, C++ than HTML, CSS and after years ago whith nobody change I decided to transform a Professional Engineer Software  focusing in Python, databases, Django, FastAPIs, and much more.
+In the morning I studying Law than in the afternoon i´m working as a ProjectManager Freelance and the rest of the day I studying software and network design! My dream is working like a professional Software Engineer in company Tech. I started and studied with C, C++ than HTML, CSS and after years ago whith nobody change I decided to transform a Professional Engineer Software  focusing in Python, databases, Django, FastAPIs, and much more.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [ricardormzgurrola44@gmail.com](mailto:ricardormzgurrola44@gmail.com)
