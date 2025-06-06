@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Engineer Software
 --------------------
-|Engineer, book worm, nerd...|
+|Engineer, books, nerd...|
 
 In the morning I studying Law than in the afternoon i´m working as a ProjectManager Freelance and the rest of the day I studying software and network design! My dream is working like a professional Engineer Software in company Tech. I started and studied with C, C++ than HTML, CSS and after years ago whith nobody change I decided to transform a Professional Engineer Software  focusing in Python, databases, Django, FastAPIs, and much more.
 
